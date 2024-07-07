@@ -27,10 +27,10 @@ classDiagram
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
 
-    class Ipod {
+    class iPod {
     }
 
-    Ipod --> ReprodutorMusical
+    iPod --> ReprodutorMusical
 
     class Mac {
     }
